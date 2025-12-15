@@ -1,4 +1,4 @@
-# StudentGradeCalculator-
+# StudentGradeCalculator
 Java program to calculate student grades
 import java.util.Scanner;
 
